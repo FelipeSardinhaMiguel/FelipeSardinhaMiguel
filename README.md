@@ -1,19 +1,12 @@
-## Hi there 👋
-
-![Snake animation](https://githubusercontent.com)
+## Olá, meu nome é Felipe Sardinha Miguel!
 
 
-<!--
-**FelipeSardinhaMiguel/FelipeSardinhaMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Eu estou estudando desenvolvimento de sistemas na Etec Horácio Augusto da Silveira.  
+No momento eu estou fazendo parte do front-end do meu TCC o [Omnimarket](https://github.com/Lschanhi/Omnimarket).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minhas habilidades atuais são:   
+Back-end: C, JavaScrip C#, Java   
+Front-end: Html, CSS, React   
+Banco de dados: SQL Server, MySql
+
