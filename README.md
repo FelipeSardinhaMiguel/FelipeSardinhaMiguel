@@ -10,4 +10,4 @@ Back-end: C, JavaScrip C#, Java
 Front-end: Html, CSS, React   
 Banco de dados: SQL Server, MySql
 
-![Snake animation](https://githubusercontent.com)
+![Snake animation](https://github.com/FelipeSardinhaMiguel/FelipeSardinhaMiguel/blob/output/github-contribution-grid-snake.svg)
