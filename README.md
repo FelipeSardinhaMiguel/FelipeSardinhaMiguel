@@ -2,11 +2,11 @@
 
 
 
-Eu estou estudando desenvolvimento de sistemas na Etec Horácio Augusto da Silveira.  
-Eu fiz parte do front-end do [Omnimarket](https://github.com/Lschanhi/Omnimarket) quando fiz um curso na Etec HAS.  
+Eu estudei desenvolvimento de sistemas na Etec Horácio Augusto da Silveira.  
+Eu fiz parte do front-end do [Omnimarket](https://github.com/Lschanhi/Omnimarket) quando fiz o curso na Etec HAS.  
 
-Minhas habilidades atuais são:   
-Back-end: C, JavaScrip C#, Java   
+Tenho conhecimento atual em:   
+Back-end: C, JavaScrip, C#, Java, Python   
 Front-end: Html, CSS, React   
 Banco de dados: SQL Server, MySql
 
